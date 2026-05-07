@@ -4,7 +4,7 @@
 
 - **Competition:** [Pixels-to-Predictions Kaggle Competition](https://www.kaggle.com/competitions/pixels-to-predictions)
 - **GitHub repository:** `https://github.com/mariiaonokhina/Pixels-to-Predictions-Kaggle-Competition`
-- **Final weights:** `[add weights link here]`
+- **Final weights:** located in `Best_Weights` folder
 
 This repository documents a notebook-driven experimental pipeline for the Pixels-to-Predictions multimodal science QA competition using `HuggingFaceTB/SmolVLM-500M-Instruct`. The codebase evolves from frozen prompt-based baselines to contrastive LoRA / DoRA fine-tuning, higher-resolution image inputs, same-model caption caching, and lightweight ensemble experiments.
 
