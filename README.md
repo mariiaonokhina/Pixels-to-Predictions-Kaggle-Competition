@@ -1,4 +1,6 @@
 # Pixels-to-Predictions with SmolVLM-500M-Instruct
+## Final Kaggle Competition for NYU CS-GY 6953 (Deep Learning)
+### Author: Mariia Onokhina (mo2851)
 
 - **Competition:** [Pixels-to-Predictions Kaggle Competition](https://www.kaggle.com/competitions/pixels-to-predictions)
 - **GitHub repository:** `https://github.com/mariiaonokhina/Pixels-to-Predictions-Kaggle-Competition`
